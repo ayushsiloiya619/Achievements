@@ -60,6 +60,14 @@
       <strong>YBI Foundation - Intern:</strong>
       <a href="https://github.com/ayushsiloiya619/Achievements/blob/main/YBI%20Foundation-%20Internship/certificate%20YBI%20Foundation.pdf">Certificate</a>
     </li>
+    <li>
+      <strong>IEEE DTU - Bulls n Bears:</strong>
+      <a href="https://github.com/ayushsiloiya619/Achievements/blob/main/IEEE%20DTU%20-BULLS%20N%20BEARS/Certificate_Bulls%20N%20Bears_139-139_page-0001.jpg">Certificate</a>
+    </li>
+    <li>
+      <strong>VIT - AP University (DesignEx 2.0):</strong>
+      <a href="https://github.com/ayushsiloiya619/Achievements/blob/main/VIT-%20AP%20University%20(%20Designex%202.0%20)/Designx2.0_VITAP_page-0001%20(1).jpg">Certificate</a>
+    </li>
   </ul>
   
   <h2>Contact</h2>
