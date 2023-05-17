@@ -17,10 +17,6 @@
       <a href="https://github.com/ayushsiloiya619/Achievements/blob/main/Coursera%20-%20HTML%2C%20CSS%2C%20and%20Javascript%20for%20Web%20Developers%20By%20John%20Hopkins%20University/Coursera%20KA9GY5KF4NVS_page-0001.jpg">Certificate</a>
     </li>
     <li>
-      <strong>Designex 2.0 - CSI CHAPTER VITAP:</strong>
-      <a href="https://github.com/ayushsiloiya619/Achievements/blob/main/Designex%202.0%20-%20CSI%20CHAPTER%20VITAP/Designx2.0_VITAP.pdf">Certificate</a>
-    </li>
-    <li>
       <strong>Devtown - 7 Days Bootcamp on Server Authentication using Express and NodeJS:</strong>
       <a href="https://github.com/ayushsiloiya619/Achievements/blob/main/Devtown%20-%207%20Days%20Bootcamp%20on%20Server%20Authentication%20using%20Express%20and%20NodeJS/Z2313Bi.pdf">Certificate</a>
     </li>
