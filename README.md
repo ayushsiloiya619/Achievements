@@ -66,7 +66,7 @@
     </li>
       <li>
       <strong>IBM DS0105EN - Data Science Tools</strong>
-      <a href="">Certificate</a>
+      <a href="https://github.com/ayushsiloiya619/Achievements/blob/main/IBM%20DS0105EN%20-%20Data%20Science%20Tools/IBM%20DS0105EN%20Certificate%20_%20edX_Data_Science_Tools.pdf">Certificate</a>
     </li>
   </ul>
   
