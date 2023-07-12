@@ -64,6 +64,10 @@
       <strong>VIT - AP University (DesignEx 2.0):</strong>
       <a href="https://github.com/ayushsiloiya619/Achievements/blob/main/VIT-%20AP%20University%20(%20Designex%202.0%20)/Designx2.0_VITAP_page-0001%20(1).jpg">Certificate</a>
     </li>
+      <li>
+      <strong>IBM DS0105EN - Data Science Tools</strong>
+      <a href="">Certificate</a>
+    </li>
   </ul>
   
   <h2>Contact</h2>
